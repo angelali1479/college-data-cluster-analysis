@@ -34,6 +34,8 @@ Cluster 4 has the highest instructional expenditure per student by far compared 
 **Cluster 5:**
 Cluster 5's instructional expenditures per student, percentage stem majors, and mobility rate are all slightly below average. Percentage social science majors and median earnings of students 10 year after entry are above average for this cluster.
 
+**Overall Observations:**
+Out of all the clusters, cluster 4 is the only that is above average for all the variables. The only 2 variables that seem to follow a trend is mobility rate and instructional expenditures per student; if the instructional expenditures per student were above average for that cluster, its mobility rate were also above average (and vice versa).
 
 ![alt text](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/miniproj3graph.png)
 
