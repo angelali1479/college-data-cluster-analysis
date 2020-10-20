@@ -16,4 +16,9 @@ How are different colleges grouped based on instructional expenditures per stude
 
 ## Data Analysis
 
+![alt text](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/Screen%20Shot%202020-10-19%20at%208.12.04%20PM.png)
+
+![alt text](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/miniproj3graph.png)
+
+
 ## Conclusions
