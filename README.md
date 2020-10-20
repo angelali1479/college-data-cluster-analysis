@@ -6,8 +6,10 @@ How are different colleges grouped based on instructional expenditures per stude
 
 ## Open Data
 Opportunity Insights Data Library:
-[Preferred Estimates of Access and Mobility Rates by College](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/mrc_table1.csv)
-[College Level Characteristics from the IPED Database and the College Scorecard](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/mrc_table7.csv)
+
+- [Preferred Estimates of Access and Mobility Rates by College](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/mrc_table1.csv)
+
+- [College Level Characteristics from the IPED Database and the College Scorecard](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/mrc_table7.csv)
 
 ## Data Analysis
 
