@@ -37,7 +37,15 @@ Cluster 5's instructional expenditures per student, percentage stem majors, and 
 **Overall Observations:**
 Out of all the clusters, cluster 4 is the only that is above average for all the variables. The only 2 variables that seem to follow a trend is mobility rate and instructional expenditures per student; if the instructional expenditures per student were above average for that cluster, its mobility rate were also above average (and vice versa).
 
+
 ![alt text](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/miniproj3graph.png)
 
+On this visual, I consolidated all 5 clusters' cluster variables together onto one graph so that it would be easier to compare the cluster variables visually. The 5 clusters are listed in order in the legend on the graph as the college name. The 5 cluster variables are listed on the x-axis with the following legend:
+- 1 = instructional expenditures per student
+- 2 = median earnings of students 10 years after entry
+- 3 = percentage stem majors
+- 4 = percentage social science majors
+- 5 = mobility rate
+We can see in the visual above that there appear to be two obvious outliers, instructional expenditures per student for Columbia University and percentage stem majors for New England Institute of Technology.
 
 ## Conclusions
