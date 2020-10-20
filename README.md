@@ -18,6 +18,11 @@ How are different colleges grouped based on instructional expenditures per stude
 
 ![alt text](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/Screen%20Shot%202020-10-19%20at%208.12.04%20PM.png)
 
+This table contains the normalized values of the 5 variables used in the cluster analysis.
+**Cluster 1:**
+Compared to the other clusters, cluster 1 has the largest amount of standard deviations above the average for percentage stem major. Both instructional expenditures per student and median earnings of students 10 years after entry were only slightly above average while the mobility rate was the closest to average out of all the clusters. Cluster 1's only variable with a below average standard deviation is percentage social science. 
+
+
 ![alt text](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/miniproj3graph.png)
 
 
