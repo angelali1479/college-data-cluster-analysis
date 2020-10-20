@@ -46,6 +46,8 @@ On this visual, I consolidated all 5 clusters' cluster variables together onto o
 - 3 = percentage stem majors
 - 4 = percentage social science majors
 - 5 = mobility rate
-We can see in the visual above that there appear to be two obvious outliers, instructional expenditures per student for Columbia University and percentage stem majors for New England Institute of Technology.
+
+
+We can see in the visual above that there appear to be two obvious outliers, instructional expenditures per student for Columbia University and percentage stem majors for New England Institute of Technology. None of the colleges had a cluster variable far below average and were all less than one standard deviation below average. I had initially hypothesized based on the research article described in the background section that instructional expenditures per student and brand name of the school would have the closest relation to mobility rate, but we can see from this graph that that is not necessarily true. Although Columbia has the highest instructional expenditurees per student by far, we can see that D'Youville College had a higher mobility rate despite having close to average instructional expenditures per student.
 
 ## Conclusions
