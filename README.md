@@ -5,7 +5,7 @@ Studies have shown that colleges play a major role in intergenerational income m
 I specifically looked into variables such as instructional expenditures per student, median earnings of students, percentage of certain majors, and mobility rate to see how colleges would be grouped together. This would be useful to see if these clusters and cluster anchors show that certain variables can be grouped together in a way that relates variables together. Then, we can extrapolate the results to see if making changes for specific variables can help improve the mobility rate of colleges.
 
 ## Business Question
-**How are different colleges grouped based on instructional expenditures per student, median earnings of students 10 years after entry, percentage stem majors, and percentage social science majors? How can we use this data to help colleges improve their mobility rate?**
+**How are different colleges grouped based on instructional expenditures per student, median earnings of students 10 years after entry, percentage STEM majors, and percentage social science majors? How can we use this data to help colleges improve their mobility rate?**
 
 ## Open Data
 [Opportunity Insights Data Library](https://opportunityinsights.org/data/?geographic_level=0&topic=105&paper_id=0#resource-listing):
@@ -19,7 +19,7 @@ I specifically looked into variables such as instructional expenditures per stud
 ![alt text](https://github.com/angelali1479/college-data-cluster-analysis/blob/main/Screen%20Shot%202020-10-19%20at%208.12.04%20PM.png)
 
 **Cluster 1:**
-Compared to the other clusters, cluster 1 has the largest amount of standard deviations above the average for percentage stem major. Both instructional expenditures per student and median earnings of students 10 years after entry were only slightly above average while the mobility rate was the closest to average out of all the clusters. Cluster 1's only variable with a below average standard deviation is percentage social science. 
+Compared to the other clusters, cluster 1 has the largest amount of standard deviations above the average for percentage STEM major. Both instructional expenditures per student and median earnings of students 10 years after entry were only slightly above average while the mobility rate was the closest to average out of all the clusters. Cluster 1's only variable with a below average standard deviation is percentage social science. 
 It would seem that the high percentage of stem majors does not have much of a relation to mobility rate, since mobility rate for this cluster is almost average.
 
 **Cluster 2:**
@@ -43,11 +43,11 @@ Out of all the clusters, cluster 4 is the only that is above average for all the
 On this visual, I consolidated all 5 clusters' cluster variables together onto one graph so that it would be easier to compare the cluster variables visually. The 5 clusters are listed in order in the legend on the graph as the college name. The 5 cluster variables are listed on the x-axis with the following legend:
 - 1 = instructional expenditures per student
 - 2 = median earnings of students 10 years after entry
-- 3 = percentage stem majors
+- 3 = percentage STEM majors
 - 4 = percentage social science majors
 - 5 = mobility rate
 
 
-We can see in the visual above that there appear to be two obvious outliers, instructional expenditures per student for Columbia University and percentage stem majors for New England Institute of Technology. None of the colleges had a cluster variable far below average and were all less than one standard deviation below average. I had initially hypothesized based on the research article described in the background section that instructional expenditures per student and brand name of the school would have the closest relation to mobility rate, but we can see from this graph that that is not necessarily true. Although Columbia has the highest instructional expenditurees per student by far, we can see that D'Youville College had a higher mobility rate despite having close to average instructional expenditures per student.
+We can see in the visual above that there appear to be two obvious outliers, instructional expenditures per student for Columbia University and percentage stem majors for New England Institute of Technology. None of the colleges had a cluster variable far below average and were all less than one standard deviation below average. I had initially hypothesized based on the research article described in the background section that instructional expenditures per student and brand name of the school would have the closest relation to mobility rate, but we can see from this graph that that is not necessarily true. Although Columbia has the highest instructional expenditurees per student by far, we can see that D'Youville College had a higher mobility rate despite having close to average instructional expenditures per student. The othere outlier, percentage STEM majors for New England Institute of Technology, is likely caused by the fact that the college specializes in STEM.
 
 ## Conclusions
