@@ -26,6 +26,12 @@ It would seem that the high percentage of stem majors does not have much of a re
 Out of all the clusters, cluster 2 is the only one where all of its variables are below average, with percentage social science majors being the lowest below average at almost 1 entire standard deviation below average.
 
 **Cluster 3:**
+Cluster 3 has the highest mobility rate out of all the clusters, with its median earnings being the second highest out of all the clusters. This cluster's instructional expenditures per student is almost average, with only about 0.04 standard deviations above the average, while its percentage stem major and percentage social science major are both below average.
+
+**Cluster 4:**
+Cluster 4 has the highest instructional expenditure per student by far compared to the other clusters, with more than 6 standard deviations above the average. This cluster also has the highest median salary 10 years after entry out of all the other clusters and the remaining variables are also all above average. However, its mobility rate is lower than that of cluster 3.
+
+**Cluster 5:**
 
 
 
